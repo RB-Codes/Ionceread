@@ -16,11 +16,12 @@
 
 ### CSS
 
-CSS is a little tricky, it is the styling part of a webpage, it helps our page look smarter and lively, CSS styles can be added externally as a style sheet linked in our head section, or intergrated internally in the head or even in line
+CSS is a little tricky, it is the styling part of a webpage, it helps our page look smarter and lively, CSS styles can be added externally as a style sheet linked in our head section, or intergrated internally in the head or even in line.
 
 ### Javascript
 
-Javascript is the engine of the page, it makes our page come to life, it provides interactions to the user to make things easier, it can give the user commands, it can talk to our guests and make their journey in our page fun
+Javascript is the engine of the page, it makes our page come to life, it provides interactions to the user to make things easier, it can give the user commands, it can talk to our guests and make their journey in our page fun, it is a programming language that gives functions to our page excuting the codes line by line in order which makes us have to worry about where to place our codes. 
 
 ![ three dudes](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg)
+
 for more information check out this video on youtube [https://www.youtube.com/watch?v=gT0Lh1eYk78]
