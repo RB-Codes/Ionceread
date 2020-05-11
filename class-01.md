@@ -23,3 +23,4 @@ CSS is a little tricky, it is the styling part of a webpage, it helps our page l
 Javascript is the engine of the page, it makes our page come to life, it provides interactions to the user to make things easier, it can give the user commands, it can talk to our guests and make their journey in our page fun
 
 ![ three dudes](https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg)
+for more information check out this video on youtube [https://www.youtube.com/watch?v=gT0Lh1eYk78]
