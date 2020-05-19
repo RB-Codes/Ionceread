@@ -1,4 +1,4 @@
-# Read 07 #
+# Read 07 
 
 
 Domain modeling is a set of steps we do to create a pre-thought model for a certain problem, and a well-built domain model can confirm and reflect our understanding for this problem.

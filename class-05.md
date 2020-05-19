@@ -1,4 +1,4 @@
-## Images: ##
+## Images: 
 
 ![Image](https://www.publicdomainpictures.net/pictures/40000/velka/lady-bug-clip-art.jpg)
 Images have to be the following
