@@ -18,3 +18,4 @@
 |  Read 07 |  [7](class-07.md)  |
 |  Read 08 |  [8](class-08.md)  |
 |  Read 09 |  [9](class-09.md)  |
+|  Read 10 |  [10](class-10.md) |
