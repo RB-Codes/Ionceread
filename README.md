@@ -11,24 +11,24 @@ Here you can find all my reads organized and ordered in the table below, startin
 
 ### Table of Contents
 
-
-|   Read   |        Ref         |
-|:--------:|:------------------:|
-|  Read 01 |  [1](class-01.md)  |
-|  Read 02 |  [2](class-02.md)  |
-|  Read 03 |  [3](class-03.md)  |
-|  Read 04 |  [4](class-04.md)  |
-|  Read 05 |  [5](class-05.md)  |
-|  Read 06 |  [6](class-06.md)  |
-|  Read 07 |  [7](class-07.md)  |
-|  Read 08 |  [8](class-08.md)  |
-|  Read 09 |  [9](class-09.md)  |
-|  Read 10 |  [10](class-10.md) |
-|  Read 11 |  [11](class-11.md) |
-|  Read 12 |  [12](class-12.md) |
-|  Read 13 |  [13](class-13.md) |
-|  Read 14 |  [14](class-14.md) |
-|  Read 15 |  [15](class-15.md) |
+  
+|   Read   |          Ref           |
+|:--------:|:----------------------:|
+|  Read 01 |  [1](201/class-01.md)  |
+|  Read 02 |  [2](201/class-02.md)  |
+|  Read 03 |  [3](201/class-03.md)  |
+|  Read 04 |  [4](201/class-04.md)  |
+|  Read 05 |  [5](201/class-05.md)  |
+|  Read 06 |  [6](201/class-06.md)  |
+|  Read 07 |  [7](201/class-07.md)  |
+|  Read 08 |  [8](201/class-08.md)  |
+|  Read 09 |  [9](201/class-09.md)  |
+|  Read 10 |  [10](201/class-10.md) |
+|  Read 11 |  [11](201/class-11.md) |
+|  Read 12 |  [12](201/class-12.md) |
+|  Read 13 |  [13](201/class-13.md) |
+|  Read 14 |  [14](201/class-14.md) |
+|  Read 15 |  [15](201/class-15.md) |
 
 
 # ***Code 301 reading notes***
@@ -43,8 +43,8 @@ experience and hope we will do it.
 
 |   Read   |        Ref         |
 |:--------:|:------------------:|
-|  Read 01 |  [1](class-01.md)  |
-|  Read 02 |  [2](class-02.md)  |
+|  Read 01 |  [1](301/Read01-SMACSSandResponsiveWebDesign.md)  |
+|  Read 02 |  [2](301/Read02-JQueryStuff.md)  |
 |  Read 03 |  [3](class-03.md)  |
 |  Read 04 |  [4](class-04.md)  |
 |  Read 05 |  [5](class-05.md)  |
