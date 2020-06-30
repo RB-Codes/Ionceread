@@ -45,7 +45,7 @@ experience and hope we will do it.
 |:--------:|:------------------:|
 |  Read 01 |  [1](301/Read01-SMACSSandResponsiveWebDesign.md)  |
 |  Read 02 |  [2](301/Read02-JQueryStuff.md)  |
-|  Read 03 |  [3](class-03.md)  |
+|  Read 03 |  [3](301/Read03-CSSFrog.md)  |
 |  Read 04 |  [4](class-04.md)  |
 |  Read 05 |  [5](class-05.md)  |
 |  Read 06 |  [6](class-06.md)  |
