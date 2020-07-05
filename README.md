@@ -48,7 +48,7 @@ experience and hope we will do it.
 |  Read 03 |  [3](301/Read03-CSSFrog.md)  |
 |  Read 04 |  [4](301/Read04-Regex&CSS.md)  |
 |  Read 05 |  [5](301/Read05-HEROKU.md)  |
-|  Read 06 |  [6](class-06.md)  |
+|  Read 06 |  [6](301/Read06-NodeExpress&API.md)  |
 |  Read 07 |  [7](class-07.md)  |
 |  Read 08 |  [8](class-08.md)  |
 |  Read 09 |  [9](class-09.md)  |
