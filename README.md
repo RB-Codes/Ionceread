@@ -52,7 +52,7 @@ experience and hope we will do it.
 |  Read 07 |  [7](301/Read07-APIsContinued.md)  |
 |  Read 08 |  [8](301/Read08-SQL.md)  |
 |  Read 09 |  [9](301/Read09-Refactoring.md)  |
-|  Read 10 |  [10](class-10.md) |
+|  Read 10 |  [10](301/Read10-TheCallStack.md) |
 |  Read 11 |  [11](class-11.md) |
 |  Read 12 |  [12](class-12.md) |
 |  Read 13 |  [13](class-13.md) |
