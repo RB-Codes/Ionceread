@@ -51,7 +51,7 @@ experience and hope we will do it.
 |  Read 06 |  [6](301/Read06-NodeExpress&API.md)  |
 |  Read 07 |  [7](301/Read07-APIsContinued.md)  |
 |  Read 08 |  [8](301/Read08-SQL.md)  |
-|  Read 09 |  [9](class-09.md)  |
+|  Read 09 |  [9](301/Read09-Refactoring.md)  |
 |  Read 10 |  [10](class-10.md) |
 |  Read 11 |  [11](class-11.md) |
 |  Read 12 |  [12](class-12.md) |
